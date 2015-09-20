@@ -7,7 +7,7 @@ public class CIBuild
 {
     public static string[] scenes =
     {
-            "Assets/Example.unity"
+            "Assets/Main.unity"
     };
     public static void Windows()
     {
